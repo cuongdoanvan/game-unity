@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bea24024e962d5a458b23861700440ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectile: {fileID: 2213673478044443879, guid: 60a2304f6e43c8f418f0299bb3e9a6be, type: 3}
+  - shell: {fileID: 6054546002658462864, guid: e570f92cbc49ba84a84859bf1eb341fe, type: 3}
+  - shellEjection: {instanceID: 0}
+  - shootAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
